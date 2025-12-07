@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Dialen Logo](![App Launch Your Story in White Black Simple Style (4) 1](https://github.com/user-attachments/assets/b750b00c-6964-4c5f-b45c-a0643e5adaa7)
-)
+![Dialen Logo](https://github.com/user-attachments/assets/b750b00c-6964-4c5f-b45c-a0643e5adaa7)
 
 A modern, real-time messaging application built with React Native, Express, MongoDB, and Socket.IO
 
@@ -170,14 +169,12 @@ npx react-native run-android
 
 | Login Screen | Chat List |
 |:---:|:---:|
-| ![SignUp](![2](https://github.com/user-attachments/assets/38cdc164-0c85-41c3-b791-f867f23af92d)
-) | ![Chat List](![App Launch Your Story in White Black Simple Style 1](https://github.com/user-attachments/assets/9b44915d-9481-4d5e-881f-801e2579afed)
-) | 
+| ![SignUp](https://github.com/user-attachments/assets/38cdc164-0c85-41c3-b791-f867f23af92d) | ![Chat List](https://github.com/user-attachments/assets/9b44915d-9481-4d5e-881f-801e2579afed) |
 
 | Select User | Profile |
 |:---:|:---:|
-| ![Conversation](![5](https://github.com/user-attachments/assets/cf696bc2-facb-44a0-84e0-d98701a47a60) | ![Profile](![App Launch Your Story in White Black Simple Style (3) 1](https://github.com/user-attachments/assets/3ba57513-dceb-49c3-968f-4f6aa311629f)
-) | 
+| ![Conversation](https://github.com/user-attachments/assets/cf696bc2-facb-44a0-84e0-d98701a47a60) | ![Profile](https://github.com/user-attachments/assets/3ba57513-dceb-49c3-968f-4f6aa311629f) |
+
 </div>
 
 > **Note:** Replace the placeholder images above with actual screenshots of your application.
