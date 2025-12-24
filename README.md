@@ -167,13 +167,9 @@ npx react-native run-android
 
 <div align="center">
 
-| Login Screen | Chat List |
-|:---:|:---:|
-| ![SignUp](https://github.com/user-attachments/assets/38cdc164-0c85-41c3-b791-f867f23af92d) | ![Chat List](https://github.com/user-attachments/assets/9b44915d-9481-4d5e-881f-801e2579afed) |
-
-| Select User | Profile |
-|:---:|:---:|
-| ![Conversation](https://github.com/user-attachments/assets/cf696bc2-facb-44a0-84e0-d98701a47a60) | ![Profile](https://github.com/user-attachments/assets/3ba57513-dceb-49c3-968f-4f6aa311629f) |
+| Login Screen | Chat List | Select User | Profile |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/38cdc164-0c85-41c3-b791-f867f23af92d" width="200"/> | <img src="https://github.com/user-attachments/assets/9b44915d-9481-4d5e-881f-801e2579afed" width="200"/> | <img src="https://github.com/user-attachments/assets/cf696bc2-facb-44a0-84e0-d98701a47a60" width="200"/> | <img src="https://github.com/user-attachments/assets/3ba57513-dceb-49c3-968f-4f6aa311629f" width="200"/> |
 
 </div>
 
