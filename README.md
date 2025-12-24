@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dialen Logo](https://github.com/user-attachments/assets/b750b00c-6964-4c5f-b45c-a0643e5adaa7)
+<img src="https://github.com/user-attachments/assets/b750b00c-6964-4c5f-b45c-a0643e5adaa7" alt="Dialen Logo" width="300"/>
 
 A modern, real-time messaging application built with React Native, Express, MongoDB, and Socket.IO
 
